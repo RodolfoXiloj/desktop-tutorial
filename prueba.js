@@ -1,2 +1,2 @@
 //archivo de prueba
-console.log('test')
+console.log('test de prueba')
